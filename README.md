@@ -18,7 +18,7 @@ La captura muestra los headers de la solicitud seleccionada en Chrome DevTools. 
 
 ![Captura real de Chrome DevTools con los headers de la solicitud HTTP a NeverSSL](assets/captura-devtools-neverssl.jpg)
 
-![Infografía de la consigna sobre los riesgos de las redes Wi-Fi públicas](assets/infografia-redes-publicas.png)
+![Infografía de la consigna sobre los riesgos de las redes Wi-Fi públicas](assets/infografia-redes-publicas.jpg)
 
 | Dato | Resultado | Alcance |
 | --- | --- | --- |
